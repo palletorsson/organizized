@@ -6,4 +6,4 @@ Separate directory for research and inspiration.
 3. Hi there! /palle
 4. :))))
 5. hello github/maria
-howdy!!/Amanda
+6. howdy!!/Amanda
