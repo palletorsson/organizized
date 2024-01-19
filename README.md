@@ -1,2 +1,2 @@
 # organizized
-organizize your code
+## organizize your code
