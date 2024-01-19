@@ -2,4 +2,4 @@
 ## organizize your code
 1. Dedicated Depository 
 Separate directory for research and inspiration.
-hello /elise
+2. hello /elise
