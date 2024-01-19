@@ -3,3 +3,4 @@
 1. Dedicated Depository 
 Separate directory for research and inspiration.
 2. hello /elise
+3. Hi there! /palle
